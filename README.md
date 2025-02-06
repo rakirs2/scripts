@@ -1,13 +1,15 @@
 # scripts
 
-## 
+## Both
 Dark Mode, clipboard
-## repo is dedicated to non work scripts
+
+## Windows
+
 ```pwsh
 wsl --install; winget install git.git; winget install python; winget install AgileBits.1Password; winget install SumatraPDF.SumatraPDF; winget install --id=JetBrains.Toolbox -e; winget install -e --id Microsoft.VisualStudioCode; winget install --id Microsoft.VisualStudio.2022.Enterprise; winget install --id=RProject.R -e; winget install --id Microsoft.PowerShell --source winget
 ```
 
-## Fresh install of a mac homebrew
+## mac homebrew
 ```zsh
 brew install firefox && brew install microsoft-office && brew install jetbrains-toolbox && brew install visual-studio-code && brew install alfred && brew install brave-browser && brew install 1password && brew install dotnet &&  brew install wget && brew install tree && brew install nvm && brew install node && brew install --cask racket && brew install r && brew install nvm
 ```
