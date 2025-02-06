@@ -6,7 +6,7 @@ Dark Mode, clipboard
 ## Windows
 
 ```pwsh
-wsl --install; winget install git.git; winget install python; winget install AgileBits.1Password; winget install SumatraPDF.SumatraPDF; winget install --id=JetBrains.Toolbox -e; winget install -e --id Microsoft.VisualStudioCode; winget install --id Microsoft.VisualStudio.2022.Enterprise; winget install --id=RProject.R -e; winget install --id Microsoft.PowerShell --source winget
+wsl --install; winget install git.git; winget install python; winget install AgileBits.1Password; winget install SumatraPDF.SumatraPDF; winget install --id=JetBrains.Toolbox -e; winget install -e --id Microsoft.VisualStudioCode; winget install --id Microsoft.VisualStudio.2022.Enterprise; winget install --id=RProject.R -e; winget install --id Microsoft.PowerShell --source winget; winget install Microsoft.Office; winget install --id Microsoft.PowerToys --source winget
 ```
 
 ## mac homebrew
