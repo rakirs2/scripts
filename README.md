@@ -1,7 +1,9 @@
 # scripts
 
 ## repo is dedicated to non work scripts
-
+```pwsh
+winget install git.git && winget install python && winget install AgileBits.1Password && winget install SumatraPDF.SumatraPDF
+```
 
 ## Fresh install of a mac homebrew
 ```zsh
