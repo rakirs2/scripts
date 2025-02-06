@@ -2,7 +2,7 @@
 
 ## repo is dedicated to non work scripts
 ```pwsh
-winget install git.git && winget install python && winget install AgileBits.1Password && winget install SumatraPDF.SumatraPDF
+wsl --install && winget install git.git && winget install python && winget install AgileBits.1Password && winget install SumatraPDF.SumatraPDF && winget install --id=JetBrains.Toolbox -e && winget install -e --id Microsoft.VisualStudioCode && winget install --id Microsoft.VisualStudio.2022.Enterprise && winget install --id=RProject.R -e
 ```
 
 ## Fresh install of a mac homebrew
