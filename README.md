@@ -1,7 +1,7 @@
 # scripts
 
 ## Both
-Dark Mode, clipboard
+Dark Mode, clipboard, Anki
 
 ## Windows
 
